@@ -1,4 +1,4 @@
-🌹-------------********RECAPITULATIF DE MON DEVOIR*******-------------🌹
+-------------********RECAPITULATIF DE MON DEVOIR*******-------------
 
 ---
 
@@ -126,7 +126,7 @@ Vector rotate(Vector v, float angleDeg) {
 
 ---
 
-🧠 5️⃣ Fichier : main.cpp
+5* Fichier : main.cpp
 
 #include <iostream>
 #include "point.h"
@@ -168,9 +168,9 @@ int main() {
 
 ---
 
-🧩 6️⃣ Fonctions incluses
+6* Fonctions incluses
 
-✅ Vecteurs :
+ Vecteurs :
 
 Addition
 
@@ -183,7 +183,7 @@ Norme (longueur)
 Rotation (autour de l’origine)
 
 
-✅ Points :
+ Points :
 
 Translation
 
@@ -194,4 +194,4 @@ GAME PROGRAMMING I GOT IT
 
 ---
 LE LANGAGE C++ DEMANDE BEAUCOUP DE CONCENTRATION ET UNE BONNE FORMATION POUR ESPERER S'Y IMMERGER PLAINEMENT
-HAVE A NICE DAY . SEE YOU SOON💕
+HAVE A NICE DAY . SEE YOU SOON
